@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "BenchMarkTest",
-    "slug": "BenchMarkTest",
+    "name": "react-native-component-benchmark",
+    "slug": "react-native-component-benchmark",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
